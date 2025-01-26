@@ -1,24 +1,24 @@
 ## Olá, eu sou o Victor Hugo, estudante de Tecnologia!👨‍💻
 
-- 📚 Sou estudante do Instituto Federal de Brasília - Campus Brasília, e atualmente faço Teconologia em Sistemas para Internet ;
-- 🎓 Formado em Técnico de Informática (IFB) - 2023;
+- 📚 Sou estudante do Instituto Federal de Brasília - Campus Brasília, e atualmente faço Teconologia em Sistemas para Internet.
+- 🎓 Formado em Técnico de Informática (IFB) - 2023.
 
 ---
 
 ## 🕹️ Hobby: 
 
-- 🎮 Adoro jogar vídeo game;
-- 🎥 Gosto de ver filmes e ir no cinema;
-- 🚶🏽 Também gosto de sair para qualquer lugar;
+- 🎮 Adoro jogar vídeo game.
+- 🎥 Gosto de ver filmes e ir no cinema.
+- 🚶🏽 Também gosto de sair para qualquer lugar.
 
 ---
 
 ## 🛠️ Ferramentas:
 
-- Versionamento: GitHub, Git;
-- Linguagens: Java,C, Swift, Python, HTML, CSS;
-- Frameworks: Django;;
-- Ferramentas: Trello, Figma, Pacote Office, Power BI;
+- Versionamento: GitHub, Git.
+- Linguagens: Java,C, Swift, Python, HTML, CSS.
+- Frameworks: Django.
+- Ferramentas: Trello, Figma, Pacote Office, Power BI.
 
 ---
 
