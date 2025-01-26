@@ -5,9 +5,9 @@
 
 # Hobby: 
 
-- 🎮 Adoro jogar vídeo game
-- 🎥 Gosto de ver filmes e ir no cinema
-- 🚶🏽 Também gosto de sair para qualquer lugar 
+- 🎮 Adoro jogar vídeo game;
+- 🎥 Gosto de ver filmes e ir no cinema;
+- 🚶🏽 Também gosto de sair para qualquer lugar;
 
 <br>
 
