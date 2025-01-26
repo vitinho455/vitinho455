@@ -3,11 +3,13 @@
 - 📚 Sou estudante do Instituto Federal de Brasília - Campus Brasília, e atualmente faço Teconologia em Sistemas para Internet ;
 - 🎓 Formado em Técnico de Informática (IFB) - 2023;
 
-Hobby: 
+# Hobby: 
 
 - 🎮 Adoro jogar vídeo game
 - 🎥 Gosto de ver filmes e ir no cinema
 - 🚶🏽 Também gosto de sair para qualquer lugar 
+
+<br>
 
 <div style="display:inline-block" align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=vitinho455&show_icons=true&theme=tokyonight"/>
