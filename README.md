@@ -1,6 +1,6 @@
 ## Olá, eu sou o Victor Hugo, estudante de Tecnologia!👨‍💻
 
-- 📚 Sou estudante do Instituto Federal de Brasília - Campus Brasília, e atualmente faço Teconologia em Sistemas para Internet.
+- 📚 Sou estudante da UnB, cursando Engenharia de Software.
 - 🎓 Formado em Técnico de Informática (IFB) - 2023.
 
 ---
