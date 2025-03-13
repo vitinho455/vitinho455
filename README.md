@@ -1,16 +1,16 @@
-### 🛜Contato
+## 🛜Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-hugo-nunes-silva-037597236/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/_victorhugonunes/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_victorhugonunes/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:victorhugonunessilva455@gmail.com)
 
-### 🗯️Objetivo : 
+## 🗯️Objetivo : 
 Formado em Técnico de Informática pelo IFB e atualmente cursando Engenharia de Software pela UnB, adquiri um vasto conhecimento em linguagens de programação e desenvolvimento web. Meu objetivo é me tornar um desenvolvedor back-end/mobile, e para isso, busco constantemente aprimorar minhas habilidades por meio de cursos online, bootcamps e meus estudos na faculdade.
 
 
 ---
-### 🎓Formação
+## 🎓Formação
 
 - 📚 Atualmente curso Engenharia de Software na Universidade de Brasília - (UnB) | 2025 -2030
 - 🎓Formado em Técnico de Informática pelo Instituto Federal de Brasília - (IFB) | 2021 - 2023
@@ -20,7 +20,7 @@ Formado em Técnico de Informática pelo IFB e atualmente cursando Engenharia de
 
 
 
-### 🧠 Hard Skills:
+## 🧠 Hard Skills:
 
 - ### Versionamento 
  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
