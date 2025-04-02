@@ -56,7 +56,13 @@ Formado em Técnico de Informática pelo IFB e atualmente cursando Engenharia de
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=vitinho455&show_icons=true&theme=tokyonight"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitinho455&layout=compact&theme=tokyonight"/>
 </div>
-<br>  
+
+<div style= "display:inline-block" align="center">
+ 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitinho455&theme=great_gatsby)
+ 
+</div>
+  
 
 
 
