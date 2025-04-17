@@ -8,8 +8,7 @@
 [![Threads](https://img.shields.io/badge/Threads-000000.svg?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.net/@_victorhugonunes/replies)
 
 ## 🗯️Objetivo : 
-Formado em Técnico de Informática pelo IFB e atualmente cursando Engenharia de Software pela UnB, adquiri um vasto conhecimento em linguagens de programação e desenvolvimento web. Meu objetivo é me tornar um desenvolvedor back-end/mobile, e para isso, busco constantemente aprimorar minhas habilidades por meio de cursos online, bootcamps e meus estudos na faculdade.
-
+Formado em Técnico de Informática pelo IFB e atualmente cursando Engenharia de Software na UnB, adquiri conhecimentos em linguagens de programação e desenvolvimento web. Meu objetivo é me tornar desenvolvedor back-end e mobile, além de ter interesse na área de dados. Para isso, busco constantemente aprimorar minhas habilidades por meio de cursos online, bootcamps e dos meus estudos na universidade.
 
 ---
 ## 🎓Formação
@@ -46,26 +45,33 @@ Formado em Técnico de Informática pelo IFB e atualmente cursando Engenharia de
  ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
 
 - ## Outros
-  
- ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
  ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
  ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
  ![Raspberry](https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
- 
+ ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
+ ![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+ ![Scikitlearn](https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ---
 
 <div style="display:inline-block" align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vitinho455&show_icons=true&theme=tokyonight"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitinho455&layout=compact&theme=tokyonight"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vitinho455&show_icons=true&theme=dracula"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitinho455&layout=compact&theme=dracula"/>
 </div>
+
+---
 
 <div style= "display:inline-block" align="center">
  
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitinho455&theme=great_gatsby)
- 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitinho455&theme=great_gatsby) 
 </div>
   
+---
+<div style= "display:inline-block" align="center">
+
+[![CIS-IEEE_UnB](https://github-readme-stats.vercel.app/api/pin/?username=vitinho455&repo=CIS-IEEE_UnB)](https://github.com/vitinho455/CIS-IEEE_UnB)
+
+</div>
 
 
 
