@@ -71,13 +71,4 @@ Formado em Técnico de Informática pelo IFB e atualmente cursando Engenharia de
 </div>
   
 ---
-<div style= "display:inline-block" align="center">
-
-[![CIS-IEEE_UnB](https://github-readme-stats.vercel.app/api/pin/?username=vitinho455&repo=CIS-IEEE_UnB)](https://github.com/vitinho455/CIS-IEEE_UnB)
-[![Analise_de_rendimento_estudantil](https://github-readme-stats.vercel.app/api/pin/?username=vitinho455&repo=Analise_de_rendimento_estudantil)](https://github.com/vitinho455/Analise_de_rendimento_estudantil)
-
-
-</div>
-
-
 
