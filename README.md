@@ -11,7 +11,7 @@ Formado em Técnico de Informática pelo IFB e atualmente cursando Engenharia de
 ---
 
 ---
-## Experiência 👨‍💻
+## 👨‍💻Experiência
 
 - Atualmente trabalho no Tribunal de Contas da União (TCU) 💻
 - Mediador virtual - Instituto Federal de Brasília | *2021 - 2022*
