@@ -19,7 +19,21 @@ Formado em Técnico de Informática pelo IFB e atualmente cursando Engenharia de
 ---
 ## 🧠 Hard Skills:
   
-[![My Skills](https://skillicons.dev/icons?i=git,github,html,css,java,python,swift,sqlite,bootstrap,django&theme=light)](https://skillicons.dev)
+<div style= "display:inline-block" align="left">
+
+<img alt="Java" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Java.svg">
+<img alt="Python" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg">
+<img alt="Swift" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Swift.svg">
+<img alt="SQL Server" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/SQL Server.svg">
+<img alt="SQL Lite" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/SQLite.svg">
+<img alt="BI" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Power BI.svg">
+<img alt="Excel" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Excel.svg">
+<img alt="Bootstrap" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Bootstrap.svg">
+<img alt="Django" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Django.svg">
+<img alt="GIT" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/GITBash.svg">
+
+</div>
+
 
 ---
 
@@ -28,6 +42,6 @@ Formado em Técnico de Informática pelo IFB e atualmente cursando Engenharia de
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitinho455&theme=great_gatsby) 
 
 </div>
-  
+
 ---
 
