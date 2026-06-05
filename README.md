@@ -2,6 +2,7 @@
 Formado em Técnico de Informática pelo IFB e atualmente cursando Engenharia de Software na UnB, adquiri conhecimentos em linguagens de programação e desenvolvimento web. Meu objetivo é me tornar desenvolvedor back-end e mobile, além de ter interesse na área de dados. Para isso, busco constantemente aprimorar minhas habilidades por meio de cursos online, bootcamps e dos meus estudos na universidade.
 
 ---
+
 ## 🎓Formação
 
 - 📚 Atualmente curso Engenharia de Software na Universidade de Brasília - **UNB**
@@ -10,13 +11,14 @@ Formado em Técnico de Informática pelo IFB e atualmente cursando Engenharia de
 
 ---
 
----
+
 ## 👨‍💻Experiência
 
 - Atualmente trabalho no Tribunal de Contas da União (TCU) 💻
 - Mediador virtual - Instituto Federal de Brasília | *2021 - 2022*
 
 ---
+
 ## 🧠 Hard Skills:
   
 <div style= "display:inline-block" align="left">
@@ -34,6 +36,14 @@ Formado em Técnico de Informática pelo IFB e atualmente cursando Engenharia de
 
 </div>
 
+---
+
+
+<div style= "display:inline-block" align="center">
+  
+![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=vitinho455&theme=dark)
+  
+</div>
 
 ---
 
@@ -43,5 +53,4 @@ Formado em Técnico de Informática pelo IFB e atualmente cursando Engenharia de
 
 </div>
 
----
 
