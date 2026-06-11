@@ -1,5 +1,5 @@
 ## 🗯️Objetivo : 
-Formado em Técnico de Informática pelo IFB e atualmente cursando Engenharia de Software na UnB, adquiri conhecimentos em linguagens de programação e desenvolvimento web. Meu objetivo é me tornar desenvolvedor back-end e mobile, além de ter interesse na área de dados. Para isso, busco constantemente aprimorar minhas habilidades por meio de cursos online, bootcamps e dos meus estudos na universidade.
+Formado em Técnico de Informática pelo IFB e atualmente cursando Engenharia de Software na UnB, adquiri conhecimentos em linguagens de programação e desenvolvimento web. Meu objetivo é me tornar desenvolvedor back-end, além de ter interesse na área de dados. Para isso, busco constantemente aprimorar minhas habilidades por meio de cursos online, bootcamps e dos meus estudos na universidade.
 
 ---
 
