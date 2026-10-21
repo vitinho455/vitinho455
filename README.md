@@ -37,7 +37,6 @@ Formado em Técnico de Informática pelo IFB e atualmente cursando Engenharia de
 </div>
 
 ---
----
 
 <div style= "display:inline-block" align="center">
  
