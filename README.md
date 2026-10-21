@@ -37,14 +37,6 @@ Formado em Técnico de Informática pelo IFB e atualmente cursando Engenharia de
 </div>
 
 ---
-
-
-<div style= "display:inline-block" align="center">
-  
-![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=vitinho455&theme=dark)
-  
-</div>
-
 ---
 
 <div style= "display:inline-block" align="center">
