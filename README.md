@@ -6,7 +6,7 @@ Estudante de Engenharia de Software na UnB com experiência prática em ambiente
 ## 🎓Formação
 
 - 📚 Atualmente curso Engenharia de Software na Universidade de Brasília - **UNB**
-- - 📙 (01/06) Tecnologia em Sistemas para Internet - **IFB** ***'Interrompido'*** | *2024 - 2025*
+- 📙 (01/06) Tecnologia em Sistemas para Internet - **IFB** ***'Interrompido'*** | *2024 - 2025*
 - 🎓Formado em Técnico de Informática pelo Instituto Federal de Brasília - **IFB** | *2021 - 2023*
 
 ---
